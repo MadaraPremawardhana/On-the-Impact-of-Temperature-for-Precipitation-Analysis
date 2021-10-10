@@ -1,1 +1,1 @@
-# analyzing-interplay-between-temperature-and-precipitation-towards-occurrence-of-rainfall
+#Analyzing Interplay between Temperature andPrecipitation Towards Occurrence of Rainfall
